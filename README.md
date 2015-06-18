@@ -577,7 +577,6 @@ Students should have all they need to do this.
 
 
 
-TODO: link in mongoose howto and mongo reference cards
 
 
 
